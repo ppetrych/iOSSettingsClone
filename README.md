@@ -23,7 +23,5 @@ Supports light/dark mode, user profile card, AirPods row, and the first group of
 
 📸 Screenshots
 
-(Replace with your own screenshots)
-
-![Settings Dark](<img width="164" height="316" alt="image" src="https://github.com/user-attachments/assets/ed66d538-cee1-4e6e-b5fa-c7913b1dae3c" />)
-![Settings Light](<img width="154" height="315" alt="image" src="https://github.com/user-attachments/assets/70476f78-f329-4b54-888c-c01d2c534d6f" />)
+![Settings Dark](<src="https://github.com/user-attachments/assets/ed66d538-cee1-4e6e-b5fa-c7913b1dae3c"/>)
+![Settings Light](<src="https://github.com/user-attachments/assets/70476f78-f329-4b54-888c-c01d2c534d6f"/>)
